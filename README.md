@@ -7,7 +7,6 @@ Install the required library in your command prompt
 
 The website use for webscraping is https://www.timesjobs.com/
 
-**Note**
-Create a file name (posts) so all the data of the website is stored in that folder.
+
 
 
